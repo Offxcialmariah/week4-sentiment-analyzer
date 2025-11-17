@@ -1,0 +1,6 @@
+textblob==0.17.1
+Flask==2.3.3
+pandas==2.0.3
+nltk==3.8.1
+matplotlib==3.7.2
+Werkzeug==2.3.7
